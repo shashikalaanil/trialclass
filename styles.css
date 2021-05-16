@@ -1,0 +1,14 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.items{
+    border-radius: 20px solid black; 
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
